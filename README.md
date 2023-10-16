@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathalie Saab</h1>
-<h3 align="center">I’m a Web Developer located in Lebanon. I have a great passion for front end development as well as backend development. A problem solver, well-organised person and have high attention to detail. Interested in the entire web development spectrum and passionate about working on ambitious projects.</h3>
+<h3 align="center">I’m a Software Engineer located in Lebanon. I have a great passion for front end development as well as backend development. A problem solver, well-organised person and have high attention to detail. Interested in the entire web development spectrum and passionate about working on ambitious projects.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
